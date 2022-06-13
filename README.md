@@ -1,2 +1,2 @@
-# Course-M20486-Asp.net-Core-
+# Course-M20486-Asp.net-Core
 Advance ASP.Net Core Learning
